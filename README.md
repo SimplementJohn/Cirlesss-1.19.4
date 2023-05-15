@@ -1,7 +1,7 @@
 
 <br> Serveur moddé Cirlesss 1.19.4
 
-<img title="log" alt="Alt text" src="log.png">
+<img title="log" alt="Alt text" src="images/log.png">
 
 <br> Pour vous connecter à ce serveur il vous faut 
 -   Télécharger Java
@@ -11,6 +11,12 @@
 -   Avant de lancer le jeu il est préférable de configurer au minimum 4gb de ram pour rejoindre le serveur
 -   Pour obtenir l'IP il suffit de me contacter sur Discord !
 
-<br> Bon jeu !
+<br> Une fois dans le jeu il est recomandé de mettre dans cet ordre les pack de textures
+<img title="log" alt="Alt text" src="images/ordre.png">
+
+
+<br> Voila c'est fini bon jeu !
+
+
 
 
