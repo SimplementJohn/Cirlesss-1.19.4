@@ -12,7 +12,7 @@
 -   Pour obtenir l'IP il suffit de me contacter sur Discord !
 
 <br> Une fois dans le jeu il est recomandé de mettre dans cet ordre les pack de textures
-<img title="log" alt="Alt text" src="images/ordre.png">
+<img title="ordre" alt="Alt text" src="images/ordre.png">
 
 
 <br> Voila c'est fini bon jeu !
