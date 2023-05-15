@@ -7,7 +7,9 @@
 -   Télécharger **Java**
 -   Avoir **minecraft** (voici un lien d'une version cracké https://tlauncher.org/en/)
 -   Télécharger **Forge 1.19.4**
--   Délplacer dans "C:\Users\VotreUtilisateur\AppData\Roaming\.minecraft" le dossier **"ressourcepacks" et "mods"**
+-   Délplacer dans "C:\Users\VotreUtilisateur\AppData\Roaming\.minecraft" le dossier **"ressourcepacks" **
+-   Installez les mods à l'aide du lien suivant : **https://drive.google.com/drive/folders/1FBMtoXvxaKMYA-748KoVlL2R3KS37Z3b?usp=sharing**
+-   Glisser tous les mods dans le dossier **mods de Minecraft**
 -   Avant de lancer le jeu il est préférable de configurer au **minimum 4gb de RAM** pour rejoindre le serveur
 -   Pour obtenir l'**IP** il suffit de me **contacter sur Discord** !
 
